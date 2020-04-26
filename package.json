@@ -1,0 +1,22 @@
+{
+  "name": "docker-multi-arch-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J12934/docker-multi-arch-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J12934/docker-multi-arch-testing/issues"
+  },
+  "homepage": "https://github.com/J12934/docker-multi-arch-testing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
